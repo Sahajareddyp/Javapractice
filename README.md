@@ -1,6 +1,5 @@
 Hi this is my Java practice schedule:
 
-<<<<<<< HEAD
 Day 1: Basic operations - Variables, Data types 
 
 Day 2: Operators- Arithmetic, Relational, Logical 
@@ -11,4 +10,4 @@ Day 4: For loops, switch, break
 
 Day 5: Methods, MethodOverloading, Stack and Heap
 
-=======
+
