@@ -24,7 +24,7 @@ public class StackandHeap {
         Calculator obj = new Calculator();
         Calculator obj1= new Calculator();
         int r1=obj.add(3,4,5);
-        //System.out.println(r1);
+        System.out.println(r1);
         obj.num=8;
         System.out.println(obj.num);
         System.out.println(obj1.num);
