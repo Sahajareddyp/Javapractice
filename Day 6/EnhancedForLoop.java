@@ -1,12 +1,16 @@
-class Student {
+
+class Student 
+{
     int rollno;
     String name;
     int marks;
 }
 
-public class ArrayObject {
+public class EnhancedForLoop
+ {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         
         Student s1=new Student();
         s1.rollno=1;
@@ -28,10 +32,18 @@ public class ArrayObject {
         students[1]=s2;
         students[2]=s3;
 
-        for(int i=0;i<students.length;i++)
+        // for(int i=0;i<students.length;i++)
+        // {
+        //     System.out.println(students[i].name + " : " + students[i].marks);
+        // }
+
+        for(Student st : students)
         {
-            System.out.println(students[i].name + " : " + students[i].marks);
+            
+                System.out.println(st.name + " : " + st.marks);
+                
+             
         }
-    }
     
+    }
 }
