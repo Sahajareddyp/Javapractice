@@ -13,7 +13,7 @@ Day 5: Methods, MethodOverloading, Stack and Heap
 Day 6: Arrays, Multi-dimensional arrays, Jagged Arrays
 
 Day 7: Strings, Static keyword, Static Method
-<<<<<<< HEAD
 
-=======
->>>>>>> e873be7f5fd7c019a8402bc0bd4900c61f7c856c
+Day 8: Constructors, Parameterized Constructors, Encapsulation, Getters-Setters
+
+Day 9:Inheritance
