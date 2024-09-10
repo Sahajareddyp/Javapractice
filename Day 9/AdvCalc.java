@@ -1,6 +1,6 @@
-//package Day 9;
 
-public class AdvCalc{
+
+public class AdvCalc extends Calc {
 
     public int multi(int n1, int n2){
 
