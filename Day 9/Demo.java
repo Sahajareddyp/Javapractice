@@ -1,5 +1,6 @@
 //package Day 9;
 
+import other.tools.AdvCalc;
 
 public class Demo{
 
